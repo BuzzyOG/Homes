@@ -1,0 +1,14 @@
+name: Homes
+main: me.Jaaakee224.Homes.Homes
+version: 1.0
+author: Jaaakee224
+
+commands:
+ home:
+  description: Opens the Home GUI
+  usage: /home
+  permission: Home.use
+permissions:
+ Home.use:
+  description: Permission to use the Home Command.
+  default: true
